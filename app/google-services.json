@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "747737488229",
+    "project_id": "udemyegitim-8f986",
+    "storage_bucket": "udemyegitim-8f986.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747737488229:android:31bd549b0c68366fbe9f8c",
+        "android_client_info": {
+          "package_name": "com.blogspot.devofandroid.firebaserealtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747737488229-u6vgma4464p8aio5a5v2g0bds2td3uie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFOI_VtMQae9C0uDEJYx5Phy5vp8rX4BI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747737488229-u6vgma4464p8aio5a5v2g0bds2td3uie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
